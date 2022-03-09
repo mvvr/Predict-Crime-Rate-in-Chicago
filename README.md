@@ -1,4 +1,4 @@
-# Prophet-Time-Series---Predict-Crime-Rate-in-Chicago
+# Predict-Crime-Rate-in-Chicago
 
 #### Download Datasets from here . - Datasource: https://www.kaggle.com/currie32/crimes-in-chicago
 
